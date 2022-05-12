@@ -14,3 +14,5 @@
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/getIndexWord.js">Функция возврата индексов заглавных букв строки</a>
 
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/fooBar.js">Функция вывода чисел от 1 до n</a>
+
+🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/uniqueArr.js">Функция возврата уникальных значений из нескольких массивов</a>
