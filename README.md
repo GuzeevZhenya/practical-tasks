@@ -8,3 +8,5 @@
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/sumDigits.js">Функция суммирования всех цифр числа</a>
 
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/maxMin.js">Функция поиска минимального и максимального значений в массиве</a>
+
+🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/accumSymbol.js">Функция создания набора дубликатов символов строки</a>
