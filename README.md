@@ -12,3 +12,5 @@
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/accumSymbol.js">Функция создания набора дубликатов символов строки</a>
 
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/getIndexWord.js">Функция возврата индексов заглавных букв строки</a>
+
+🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/fooBar.js">Функция вывода чисел от 1 до n</a>
