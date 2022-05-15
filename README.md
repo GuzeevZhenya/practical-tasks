@@ -23,4 +23,5 @@
 
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/findVowels.js">Функция поиска гласных букв в строке</a>
 
+🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/isAnagrams.js">Функция проверки являются ли элементы анаграммами</a>
 
