@@ -26,3 +26,5 @@
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/isAnagrams.js">Функция проверки являются ли элементы анаграммами</a>
 
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/isUnique.js">Функция проверки уникальности всех символов в строке</a>
+
+🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/flatten.js">Функция распаковки массива</a>
