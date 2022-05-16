@@ -28,3 +28,6 @@
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/isUnique.js">Функция проверки уникальности всех символов в строке</a>
 
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/flatten.js">Функция распаковки массива</a>
+
+🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/removeDuplicates.js">Функция удаления всех повторяющихся значений в строке</a>
+
