@@ -31,3 +31,5 @@
 
 🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/removeDuplicates.js">Функция удаления всех повторяющихся значений в строке</a>
 
+🔍 <a href="https://github.com/isaev-iv/practical-tasks/blob/master/highestFrequency.js">Функция, находящая какая строка встречается чаще всего</a>
+
